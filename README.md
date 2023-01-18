@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mikel4u
+- 👋 Hi, I’m @Mikel3XX23
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS, and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and SQL
 - 💞️ I’m looking to collaborate on Still learning, once I feel confident I'll start to collaborate. 
 - 📫 How to reach me ...
 
